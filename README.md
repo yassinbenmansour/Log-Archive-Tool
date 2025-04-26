@@ -26,5 +26,4 @@ It is designed to keep systems clean while preserving important logs for future 
 ```bash
 ./log_archive.sh <log-directory>
 
-https://roadmap.sh/projects/log-archive-tool
 
